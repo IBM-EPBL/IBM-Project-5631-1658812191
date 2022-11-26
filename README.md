@@ -15,9 +15,17 @@ Team ID : **PNT2022TMID31150**
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn-web.gofrugal.com/images/inventory_ctrl/banner_img.svg">
 
 
+
 Video demo link
+
+
 https://youtu.be/_hLiYkcaeko
 
+
+Flask application link
+
+
+http://159.122.183.25:32672/
 
  ## :bulb:Project Idea :
  <ul><li>Retail inventory management is the process of ensuring you carry
